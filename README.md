@@ -52,7 +52,6 @@ My work philosophy is simple:
 
 🔗 https://github.com/mdshovon97/enable-data-disabled-indicator
 
-
 ## How I Work
 
 - Minimal patches
@@ -68,9 +67,6 @@ SystemUI modifications, and internal experiments here:
 
 🔗 **Telegram Channel:**  
 https://t.me/shovonxos
-
-🧵 **Discussion / Chat:**  
-https://t.me/shovonxos_chat
 
 ## Meta
 
