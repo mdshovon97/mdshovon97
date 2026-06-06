@@ -11,10 +11,6 @@
 I work close to the **operating system layer**, focusing on Android internals,
 framework behavior, and ROM-level customization.
 
-My work philosophy is simple:
-
-> **Understand the system first. Modify it second.**
-
 ## Focus Areas
 
 - Android ROM Development
