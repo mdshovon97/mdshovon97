@@ -36,18 +36,6 @@ framework behavior, and ROM-level customization.
 - Bash / Shell
 - HTML / CSS / JavaScript
 
-## Featured Work
-
-### enable-data-disabled-indicator
-**LineageOS 21 (Android 14)**
-
-- Enables Data Disabled Indicator
-- Clean SystemUI modification
-- Framework-safe approach
-- AOSP compatible
-
-🔗 https://github.com/mdshovon97/enable-data-disabled-indicator
-
 ## How I Work
 
 - Minimal patches
