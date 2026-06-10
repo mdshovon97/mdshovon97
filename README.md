@@ -13,24 +13,13 @@
 <img src="https://raw.githubusercontent.com/mdshovon97/mdshovon97/main/brain.png" width="220" alt="Brain"/>
 </td>
 <td width="70%">
-
-I work close to the operating system layer, focusing on Android internals, framework behavior, and ROM-level customization.
-
+Android OS enthusiast and low-level software engineer with a strong interest in operating system architecture, platform internals, and system customization.
+Active in the Android modding community since 2013, working across Android, Linux, and Windows environments. Passionate about understanding how systems operate beneath the user interface, from boot processes and framework components to platform behavior and optimization.
+Experienced with custom ROM ecosystems, AOSP-based projects, SystemUI customization, and advanced Adobe Creative workflows.
 </td>
 
 </tr>
 </table>
-## Focus Areas
-
-- Android ROM Development
-- SystemUI & Framework Modification
-- AOSP Internals
-- Boot Process & Init
-- Linux Internals
-- Performance & Stability Tuning
-- Reverse Engineering (basic)
-
-## Tech Stack
 
 **OS & Platforms**
 - Android (AOSP, LineageOS)
