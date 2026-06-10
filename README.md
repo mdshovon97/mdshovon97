@@ -6,11 +6,20 @@
   />
 </p>
 
-## About
+## Know About Me
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://raw.githubusercontent.com/mdshovon97/mdshovon97/main/brain.png" width="220" alt="Brain"/>
+</td>
+<td width="70%">
 
-I work close to the **operating system layer**, focusing on Android internals,
-framework behavior, and ROM-level customization.
+I work close to the operating system layer, focusing on Android internals, framework behavior, and ROM-level customization.
 
+</td>
+
+</tr>
+</table>
 ## Focus Areas
 
 - Android ROM Development
