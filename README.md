@@ -13,18 +13,16 @@
 <img src="https://raw.githubusercontent.com/mdshovon97/mdshovon97/main/brain.png" width="220" alt="Brain"/>
 </td>
 <td width="70%">
-Android OS enthusiast and low-level software engineer with a strong interest in operating system architecture, platform internals, and system customization.
-Active in the Android modding community since 2013, working across Android, Linux, and Windows environments. Passionate about understanding how systems operate beneath the user interface, from boot processes and framework components to platform behavior and optimization.
-Experienced with custom ROM ecosystems, AOSP-based projects, SystemUI customization, and advanced Adobe Creative workflows.
+I work closely with the Android operating system layer, specializing in Android internals, framework behavior, and ROM-level customization. An active member of the XDA community since 2013, with over 13 years of experience in the Android ecosystem. Adobe power user with extensive expertise in creative and technical workflows.
 </td>
 
 </tr>
 </table>
 
 **OS & Platforms**
-- Android (AOSP, LineageOS)
-- Linux (Debian / Ubuntu)
+- Android (AOSP)
 - Termux
+- Linux (Debian / Ubuntu)
 - Windows (build & tooling)
 
 **Languages**
@@ -34,13 +32,14 @@ Experienced with custom ROM ecosystems, AOSP-based projects, SystemUI customizat
 - Bash / Shell
 - HTML / CSS / JavaScript
 
-## How I Work
+## 🔥 How I Work
 
-- Minimal patches
-- No unnecessary UI hacks
-- System stability first
-- Debug before modifying
-- Clean, reviewable commits
+System stability, performance, and reliability come first.
+Analyze, debug, and resolve issues at the framework, system, and application layers.
+Design clean, functional, and user-focused UI/UX experiences.
+Optimize operating systems by removing unnecessary components and improving overall performance.
+Focus on efficient workflows, maintainable solutions, and attention to detail.
+Continuously research, test, and refine implementations to achieve the best possible user experience.
 
 ## 📡 Community & Updates
 
