@@ -7,13 +7,39 @@
 </p>
 
 ## Know About Me
+
 <table>
 <tr>
-<td width="30%" align="center">
-<img src="https://raw.githubusercontent.com/mdshovon97/mdshovon97/main/brain.png" width="220" alt="Brain"/>
+
+<td width="32%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/mdshovon97/mdshovon97/main/brain.png" width="200" alt="Brain"/>
+
+<br>
+
+<h3>OS-Level Engineer</h3>
+
+<p>
+Android Internals<br>
+Framework Behavior<br>
+ROM Development<br>
+System Optimization<br>
+Debugging & Stability
+</p>
+
 </td>
-<td width="70%">
-I work closely with the Android operating system layer, specializing in Android internals, framework behavior, and ROM-level customization. An active member of the XDA community since 2013, with over 13 years of experience in the Android ecosystem. Adobe power user with extensive expertise in creative and technical workflows.
+
+<td width="68%" valign="top">
+
+I work closely with the Android operating system layer, specializing in Android internals, framework behavior, ROM-level customization, and low-level system optimization.
+
+An active member of the XDA Developers community since 2013, with over 13 years of experience across Android, Linux, Windows, and Termux environments. My work focuses on understanding how systems operate beneath the user interface—from boot processes and framework components to framework analysis, performance tuning, debugging, and platform behavior optimization.
+
+Experienced with custom ROM ecosystems, AOSP-based development, SystemUI customization, and stability-focused modifications. Adobe Creative Cloud power user with extensive expertise in Photoshop, Illustrator, After Effects, Premiere Pro, InDesign, and Audition, combining technical engineering knowledge with professional creative workflows.
+
+<strong>Core Focus:</strong><br>
+Android Framework • AOSP • ROM Development • SystemUI • Linux • Performance Optimization • Debugging • Adobe Creative Cloud
+
 </td>
 
 </tr>
