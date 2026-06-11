@@ -15,11 +15,6 @@
 
 <img src="https://raw.githubusercontent.com/mdshovon97/mdshovon97/main/brain.png" width="190" alt="Brain"/>
 
-<br>
-
-**OS-Level Engineer**  
-Android • Linux • Windows
-
 </td>
 
 <td width="70%" valign="top">
