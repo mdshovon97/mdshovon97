@@ -19,7 +19,7 @@
 
 <td width="70%" valign="top">
 
-I work closely with the Android operating system layer, specializing in Android internals, framework behavior, ROM-level customization, and low-level system optimization.
+I work closely with the Android operating system layer, specializing in Android internals, framework behavior, ROM-level customization, and High-level system optimization.
 
 Active in the XDA Developers community since 2013, with 13 years of experience across Android, Linux, Windows, and Termux environments.
 
